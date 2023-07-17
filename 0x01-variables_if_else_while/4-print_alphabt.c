@@ -17,7 +17,7 @@ int main(void)
 		}
 		else
 		{
-		putchar(alph1);
+			putchar(alph1);
 		}
 
 		alph1++;
