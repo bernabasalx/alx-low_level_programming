@@ -15,8 +15,11 @@ int main(void)
 		{
 			continue;
 		}
-
+		else
+		{
 		putchar(alph1);
+		}
+
 		alph1++;
 	}
 	putchar('\n');
