@@ -7,20 +7,20 @@
 */
 int main(void)
 {
-        char alph1 = 'a';
+	char alph1 = 'a';
 	char alph2 = 'A';
 
-        while (alph1 <= 'z')
-        {
-                putchar(alph1);
-                alph1++;
-        }
+	while (alph1 <= 'z')
+	{
+		putchar(alph1);
+		alph1++;
+	}
 	while (alph2 <= 'Z')
 	{
 		putchar(alph2);
 		alph2++;
 	}
-        putchar('\n');
-        return (0);
+       	putchar('\n');
+       	return (0);
 }
 
