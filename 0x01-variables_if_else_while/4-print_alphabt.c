@@ -11,15 +11,10 @@ int main(void)
 
 	while (alph1 <= 'z')
 	{
-		if (alph1 == 'e' || alph1 == 'q')
-		{
-			continue;
-		}
-		else
+		if (alph1 != 'e' && alph1 != 'q')
 		{
 			putchar(alph1);
 		}
-
 		alph1++;
 	}
 	putchar('\n');
