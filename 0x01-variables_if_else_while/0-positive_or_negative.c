@@ -5,7 +5,6 @@
  * main - Entry point
  *
  * Description: 'Random Number generator'
- * @parameter: describe the parameter
  *
  * Return: Always 0 (Success)
  */
