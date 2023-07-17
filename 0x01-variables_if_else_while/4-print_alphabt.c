@@ -7,17 +7,18 @@
 */
 int main(void)
 {
-        char alph1 = 'a';
+	char alph1 = 'a';
 
-        while (alph1 <= 'z')
-        { 
+	while (alph1 <= 'z')
+	{
 		if (alph1 == 'e' || alph1 == 'q')
 		{
 			continue;
 		}
-                putchar(alph1);
-                alph1++;
-        }
-        putchar('\n');
-        return (0);
+
+		putchar(alph1);
+		alph1++;
+	}
+	putchar('\n');
+	return (0);
 }
