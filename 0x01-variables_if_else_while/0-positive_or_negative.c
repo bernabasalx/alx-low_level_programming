@@ -4,7 +4,7 @@
 
 /* here is a cprogram for random numbers display*/
 
-int main(void)
+int main(void)//here is the main function
 {
 	int n;
 
