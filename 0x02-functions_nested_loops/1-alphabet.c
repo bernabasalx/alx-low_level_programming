@@ -1,10 +1,9 @@
 #include "main.h"
-
-
-	/**
-	 * print_alphabet - print all alphabet in lowercase
-	 */
-
+/**
+ * main - Entry Point
+ * Description: 'cisfun'
+ * Return: 0
+ */
 
 	void print_alphabet(void)
 	{

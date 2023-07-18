@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * Main - Entry Point
- * Description: prints 10 times the alphabet, in lowercase,
- * followed by a new line
+ * main - Entry Point
+ * Description: 'cisfun'
+ * Return: 0
  */
 void print_alphabet_x10(void)
 {
